@@ -4,10 +4,12 @@
 body{
     background-color: black;
     font-family: cooper-black-std,serif;
+    color: white;
 }
 
 a{
     font-family: 'Staatliches', cursive;
     font-size: 30px;
+    text-decoration: none;
 }
 
