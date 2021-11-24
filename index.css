@@ -13,3 +13,21 @@ a{
     text-decoration: none;
 }
 
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+p{
+    text-align:justify;
+    text-indent: 30px;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-size: 25px;
+}
+
+#especial{
+    text-align:center;
+    font-family: 'Staatliches', cursive;
+    font-size: 30px;
+}
