@@ -66,3 +66,14 @@ textarea{
 .excecao{
     text-align: center;
 }
+
+.excecao2{
+    font-family: cooper-black-std,serif;
+    color: white;
+}
+
+.excecao3{
+    font-family: cooper-black-std,serif;
+    font-size: 20px;
+    color: white;
+}
